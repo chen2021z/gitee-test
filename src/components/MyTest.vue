@@ -3,6 +3,9 @@
     this is master
   </div>
 
+  <span>
+    push test
+  </span>
 </template>
 
 <script>
