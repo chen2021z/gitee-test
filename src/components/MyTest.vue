@@ -4,9 +4,7 @@
   </div>
 
   <span>
-    push test
-    push test2
-    push test3
+    gitee test
   </span>
 </template>
 
