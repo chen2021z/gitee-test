@@ -1,19 +1,8 @@
 <template>
   <div>
-    111
+    this is master
   </div>
-  <div>
-    222
-  </div>
-  <div>
-    333
-  </div>
-  <div>
-    444
-  </div>
-  <div>
-    555
-  </div>
+
 </template>
 
 <script>
