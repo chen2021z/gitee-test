@@ -1,14 +1,7 @@
 <template>
   <div>
-    111
+    hot-fix test
   </div>
-  <div>
-    222
-  </div>
-  <div>
-    333
-  </div>
-  <p>变基</p>
 </template>
 
 <script>
