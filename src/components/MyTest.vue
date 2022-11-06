@@ -5,6 +5,7 @@
 
   <span>
     push test
+    push test2
   </span>
 </template>
 
