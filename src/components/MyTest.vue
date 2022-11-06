@@ -5,6 +5,7 @@
 
   <span>
     gitee test
+    gitee test2
   </span>
 </template>
 
